@@ -1,7 +1,4 @@
----
-layout: default
-title: Moushousei 孟祥成
----
+
 ## Welcome to my Pages
 
 You can use the [editor on GitHub](https://github.com/Mousyousei/Mousyousei.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
