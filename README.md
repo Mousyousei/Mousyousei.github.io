@@ -1,7 +1,4 @@
----
-layout: default
-title: Moushousei 孟祥成
----
+
 
 ## Welcome to GitHub Pages
 
